@@ -6,9 +6,6 @@ The main goal for this action was to attract leads from a old clients database.
 -**Business Case**: https://datastudio.google.com/reporting/8265081c-7d86-4088-a1d1-727b67aea53f
 Prediction about the main business KPIs in next 12 months.
 
--**Online-offline database actions**: https://datastudio.google.com/reporting/82e266b1-6bda-409c-af0a-0ffeb7dd2e50
-Marketing approach through different sources from online and offline methods.
-
 -**Contact Qualification**: https://datastudio.google.com/reporting/29173b7e-7cf8-4249-820f-00aa6b26dd70
 Analyzing the qualification of the contacts from a database.
 
